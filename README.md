@@ -132,12 +132,9 @@ These challenges underscore the importance of thorough debugging, script updates
 These suggestions open avenues for growth and improvement in our project, providing a roadmap to bolster security measures, fortify access controls, and streamline deployment processes. Embracing these enhancements could contribute to a more **resilient and efficient** Django-based blog application on the AWS platform.
 
 ## Conclusion
-
 In conclusion, this AWS-deployed Django blog project excels in security, scalability, and compliance. Overcoming challenges like EC2 health checks and DynamoDB sync underscores its robustness. These experiences contribute to a resilient and efficient application.
 
 ## References
-
 - AWS Documentation: 
   - https://docs.aws.amazon.com/lambda/latest/dg/foundation-networking.html
   - https://docs.aws.amazon.com/autoscaling/ec2/userguide/ts-as-healthchecks.html
-- Github: https://github.com/devenes/my-aws-capstone-project
